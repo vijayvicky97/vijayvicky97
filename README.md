@@ -7,5 +7,7 @@ Up Coming: Diving into Deep Learning and Compiler Optimisation with RNN and RL
 #### 🧠 Masters in Artifical Intelligence @ [NUIG](https://www.universityofgalway.ie/)
 #### 💾 My Leetcode - [LeetCode](https://leetcode.com/vijayvigneshgg/)
 #### 📘 My Medium - [Medium](https://medium.com/@vijayvigneshgg)
-#### Wanna Email me - reach at [Send Email](mailto:<?php echo $_SESSION['email']; ?>?subject=Subject%20Here&body=Body%20Here)
+
+{contact email}: vijayvigneshgg@gmail.com
+#### Wanna Email me - reach at [vijayvigneshgg@gmail.com]
 
