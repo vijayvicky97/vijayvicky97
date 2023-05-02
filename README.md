@@ -9,5 +9,5 @@ Up Coming: Diving into Deep Learning and Compiler Optimisation with RNN and RL
 #### 📘 My Medium - [Medium](https://medium.com/@vijayvigneshgg)
 
 {contact email}: vijayvigneshgg@gmail.com
-#### Wanna Email me - reach at vijayvigneshgg@gmail.com
+#### Wanna Email me - reach me at vijayvigneshgg@gmail.com
 
