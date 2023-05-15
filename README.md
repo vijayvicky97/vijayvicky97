@@ -7,7 +7,7 @@ Up Coming: Diving into Deep Learning and Compiler Optimisation with RNN and RL
 #### 👨‍💻 A Passionate Programmer | Learnt Programming as a hobby, became a Passion
 #### 🛡️ Past Experience : IT Security Engineer @ [DTCC](https://www.dtcc.com/)
 #### 🧠 Masters in Artifical Intelligence @ [NUIG](https://www.universityofgalway.ie/)
-#### Taught 4 students programming languages and helped them ace Interview
+#### Helped 4 students learn programming languages and guided them ace Interviews
 #### 💾 My Leetcode - [LeetCode](https://leetcode.com/vijayvigneshgg/)
 #### 📘 My Medium - [Medium](https://medium.com/@vijayvigneshgg)
 
