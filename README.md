@@ -11,5 +11,5 @@ Up Coming: Diving into Deep Learning and Compiler Optimisation with RNN and RL
 #### 💾 My Leetcode - [LeetCode](https://leetcode.com/vijayvigneshgg/)
 #### 📘 My Medium - [Medium](https://medium.com/@vijayvigneshgg)
 
-#### Wanna Email me - reach me at vijayvigneshgg@gmail.com
+#### Reach me at vijayvigneshgg@gmail.com
 
