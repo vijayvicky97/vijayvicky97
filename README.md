@@ -5,6 +5,7 @@
 Up Coming: Diving into Deep Learning and Compiler Optimisation with RNN and RL
 
 #### 👨‍💻 A Passionate Programmer | Learnt Programming as a hobby, became a Passion
+#### 💼 Current Experience | Devops Engineer @ [Workday](https://workday.com)
 #### 🛡️ Past Experience : IT Security Engineer @ [DTCC](https://www.dtcc.com/)
 #### 🧠 Masters in Artifical Intelligence @ [NUIG](https://www.universityofgalway.ie/)
 #### Helped 4 students learn programming languages and guided them ace Interviews
