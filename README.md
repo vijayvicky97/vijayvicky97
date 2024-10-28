@@ -2,7 +2,7 @@
 
 ### Learn <-> Teach
 
-Up Coming: Diving into Deep Learning and Compiler Optimisation with RNN and RL
+Up Coming: Upskilling and building projects with OpenAI and Spring Boot
 
 #### 👨‍💻 A Passionate Programmer | Learnt Programming as a hobby, became a Passion
 #### 💼 Current Experience | Software Engineer @ [Workday, Dublin](https://workday.com)
